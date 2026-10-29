@@ -6,9 +6,6 @@
 # Astro
 .ast/
 
-# Dependencies
-node_modules/
-
 # Build
 dist/
 
